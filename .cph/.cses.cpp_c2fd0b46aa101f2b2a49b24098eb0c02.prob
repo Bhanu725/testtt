@@ -1,0 +1,1 @@
+{"name":"Local: cses","url":"c:\\Users\\91767\\OneDrive\\Desktop\\lab\\cses.cpp","tests":[{"id":1723096790434,"input":"8 4\n3 2 4 5 1 1 5 3\n2 1 4\n2 5 6\n1 3 1\n2 1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\91767\\OneDrive\\Desktop\\lab\\cses.cpp","group":"local","local":true}
